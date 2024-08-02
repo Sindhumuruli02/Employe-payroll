@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "id": "40f7",
+      "name": "Adityaa",
+      "img": "../Assets/Ellipse -2.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "10000",
+      "startDate": "16 May 2017",
+      "notes": "",
+      "gender": "Male"
+    },
+    {
+      "id": "f607",
+      "name": "Adityaa",
+      "img": "../Assets/Ellipse -2.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "16 May 2017",
+      "notes": "",
+      "gender": "Male"
+    },
+    {
+      "id": "f118",
+      "name": "ADiti",
+      "img": "../Assets/Ellipse -1.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "20000",
+      "startDate": "13 Apr 2009",
+      "notes": "",
+      "gender": "Female"
+    }
+  ]
+}
